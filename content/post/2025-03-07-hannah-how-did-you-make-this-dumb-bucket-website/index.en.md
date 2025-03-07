@@ -23,3 +23,5 @@ To build the site locally and view live updates while you make changes:
 blogdown::build_site()
 blogdown::serve_site()
 ```
+
+You can also follow these directions to build/serve the site directly through GitHub pages: https://docs.hugoblox.com/getting-started/.
